@@ -12,3 +12,6 @@ main{
     box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.479);
     padding: 10px;
 }
+img.lado{
+    float: right;
+}
