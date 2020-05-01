@@ -17,6 +17,10 @@ h1{
     color: rgb(1, 1, 85);
     margin-bottom: 15px;
 }
+h2{
+    font: bold 16pt Arial;
+    color: rgb(24, 24, 117);
+}
 img.lado{
     float: right;
     margin: 0px 3px;
@@ -35,9 +39,10 @@ p.cchtml{
     text-align: center;
 }
 a.cgratis{
-    text-transform: capitalize;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 a.cgratis:hover{
-    letter-spacing: 0px;
-    text-transform: uppercase;
+    text-decoration: underline;
+    
 }
