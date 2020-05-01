@@ -34,3 +34,10 @@ footer{
 p.cchtml{
     text-align: center;
 }
+a.cgratis{
+    text-transform: capitalize;
+}
+a.cgratis:hover{
+    letter-spacing: 0px;
+    text-transform: uppercase;
+}
