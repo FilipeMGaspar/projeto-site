@@ -27,3 +27,7 @@ a{
 a:hover{
    text-decoration: underline blue;
 }
+footer{
+    margin: auto;
+    text-align: center;
+}
